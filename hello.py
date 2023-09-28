@@ -1,3 +1,9 @@
+#SCT211-0019/2020
+#Allan Canon Chikombe
+
+
+
+
 name = input("What is your name? ")
 
 value = input(f"Hello {name}, enter the first number: ")
